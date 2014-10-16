@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Permission denied exception
+title: Permission denied: user=root, access=WRITE exception in Hadoop
 ---
 
 Just setup a hadoop cluster and when starting all the services, I was getting below exception
