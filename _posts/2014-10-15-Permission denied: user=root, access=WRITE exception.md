@@ -3,9 +3,9 @@ layout: post
 title: Permission denied
 ---
 
-Just setup a hadoop cluster and when starting all the services, I was getting below exception
+After setting up hadoop cluster when I started first time, I was getting following error
 
-Name node is in safe mode
+ERROR org.apache.hadoop.security.UserGroupInformation: PriviledgedActionException as:root cause:org.apache.hadoop.security.AccessControlException: Permission denied: user=root, access=WRITE, inode="small":root:supergroup:rwxr-xr-x
 
 #Resolution:
 
