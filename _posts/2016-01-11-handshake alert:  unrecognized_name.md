@@ -1,6 +1,6 @@
 ---
 layout: post
-title: handshake alert:  unrecognized_name
+title: handshake alert  unrecognized_name
 ---
 
 Making call to secure url in java code was throwing an exception
